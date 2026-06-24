@@ -1,0 +1,32 @@
+CodeAlpha Phishing Awareness Training - Video Script
+Prepared by: Keerit Kapoor
+
+Opening:
+Hello everyone, my name is Keerit Kapoor. This is my CodeAlpha Cyber Security Internship Task 2 project: Phishing Awareness Training.
+
+Project aim:
+The aim of this project is to educate users about phishing attacks, how to identify suspicious emails and fake websites, how attackers use social engineering, and what safe actions users should take.
+
+What phishing is:
+Phishing is a social-engineering technique where an attacker pretends to be a trusted person, company, bank, delivery service, or IT team to trick the victim into clicking a link, sharing credentials, opening an attachment, or revealing sensitive information.
+
+Email examples:
+In this module, I created three simulated training emails. The first is a safe email with a clear sender domain, a personalized greeting, and no urgent request. The second is suspicious because it uses a lookalike domain, a generic greeting, and asks the user to verify an account. The third is a phishing example because it uses a fake domain, urgent language, and a suspicious link asking for action.
+
+Key indicators:
+The main indicators users should check are the full sender address, the greeting, the tone, the link destination, unexpected attachments, and whether the message asks for passwords, OTPs, payment details, or other sensitive information.
+
+Fake websites:
+A phishing email often sends users to a fake website that looks similar to a real login page. Users should never enter passwords through unexpected links. The safest method is to open the official website manually or use a trusted bookmark or app.
+
+Social engineering:
+Attackers rely on emotions such as fear, authority, curiosity, or reward. Examples include threats like account suspension, fake IT support messages, unexpected invoices, or fake prize offers.
+
+Prevention:
+The best practices are to verify the sender, hover over links before clicking, avoid unexpected attachments, never share credentials or OTPs by email, use multi-factor authentication, and report suspicious emails.
+
+Quiz:
+The module includes a short interactive quiz to test whether users can identify phishing red flags and choose the safest response.
+
+Closing:
+In conclusion, phishing awareness is important because many attacks target human behavior. The key message is: stop, check, verify, and report. Thank you.
