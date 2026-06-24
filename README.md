@@ -1,44 +1,103 @@
-# CodeAlpha Phishing Awareness Training
+# Phishing Awareness Training
 
-## CodeAlpha Cyber Security Internship - Task 2
+## CodeAlpha Cyber Security Internship — Task 2
 
-**Prepared by:** Keerit Kapoor  
-**Project:** Phishing Awareness Training Module  
-**Repository:** CodeAlpha_PhishingAwareness
+**Prepared by:** Keerit Kapoor
+**Project:** Phishing Awareness Training Module
 
-## Project Overview
+---
 
-This project is a phishing awareness training module created for the CodeAlpha Cyber Security Internship. It explains how to recognize phishing emails and fake websites, highlights social-engineering tactics used by attackers, provides best-practice prevention tips, and includes a short quiz for user engagement.
+## Overview
 
-## Deliverables
+This project is an educational phishing-awareness training module designed to help users recognise phishing emails, suspicious websites, and common social-engineering tactics.
 
-- `CodeAlpha_Phishing_Awareness_Training_Keerit_Kapoor.pptx` - editable presentation source
-- `CodeAlpha_Phishing_Awareness_Training_Keerit_Kapoor.pdf` - PDF version of the training module
-- `Video_Script.txt` - script for the LinkedIn video explanation
-- `assets/` - training visuals used in the presentation
+The module explains how attackers create urgency, imitate trusted brands, use lookalike domains, and request sensitive information such as passwords, OTPs, or payment details.
 
-## Topics Covered
+> All examples in this project are simulated for educational purposes. No real accounts, live phishing links, or credentials are used.
 
-- What phishing is
-- Safe vs suspicious vs phishing email examples
-- Email red flags and indicator analysis
-- Fake website warning signs
-- Social-engineering tactics
-- Prevention best practices
-- Short interactive quiz with answers
+---
 
-## Assets
+## Learning Objectives
 
-- `assets/phishing_examples.png`
-- `assets/phishing_indicators.png`
+* Understand what phishing is and why it is dangerous.
+* Identify fake emails and suspicious website indicators.
+* Recognise common social-engineering tactics.
+* Learn practical steps to avoid phishing attacks.
+* Test knowledge through an interactive quiz.
 
-## References
+---
 
-- CISA - Recognize and Report Phishing
-- FTC - How to Recognize and Avoid Phishing Scams
-- CISA - Avoiding Social Engineering and Phishing Attacks
-- FBI - Spoofing and Phishing
+## Training Topics Covered
+
+* Phishing email red flags
+* Fake sender addresses and lookalike domains
+* Urgent and threatening language
+* Suspicious links and unsafe attachments
+* Social-engineering tactics
+* Password, OTP, and payment-data safety
+* Multi-factor authentication
+* Reporting suspicious emails
+
+---
+
+## Project Files
+
+| File                                                       | Purpose                                           |
+| ---------------------------------------------------------- | ------------------------------------------------- |
+| `CodeAlpha_Phishing_Awareness_Training_Keerit_Kapoor.pptx` | Editable training presentation                    |
+| `CodeAlpha_Phishing_Awareness_Training_Keerit_Kapoor.pdf`  | Final training module in PDF format               |
+| `Video_Script.txt`                                         | Script for the LinkedIn project-explanation video |
+| `assets/`                                                  | Training visuals and quiz graphics                |
+
+---
+
+## Training Assets
+
+The `assets` folder contains visual learning materials for:
+
+* Safe vs suspicious vs phishing email comparison
+* Phishing warning indicators
+* Awareness tips and prevention guidance
+* Quiz preview
+
+---
+
+## Interactive Quiz
+
+The training module includes a quiz to help learners apply the concepts.
+
+Example questions include:
+
+1. Which part of an email should be checked before trusting the sender?
+2. What should you do before clicking an unfamiliar link?
+3. Can a legitimate organisation ask for your OTP by email?
+4. What is the safest way to access an important account after receiving a suspicious email?
+
+---
+
+## Key Prevention Tips
+
+* Verify the full sender email address.
+* Do not trust urgent or threatening messages automatically.
+* Hover over links before clicking.
+* Never share passwords, OTPs, PINs, or card details through email.
+* Avoid opening unexpected attachments.
+* Access important websites through bookmarks or manually typed URLs.
+* Enable multi-factor authentication.
+* Report suspicious emails to the relevant IT or security team.
+
+---
+
+## How to Use
+
+1. Open the PowerPoint presentation or PDF module.
+2. Review the examples and phishing indicators.
+3. Complete the quiz section.
+4. Apply the prevention tips when handling emails or websites.
+
+---
 
 ## Disclaimer
 
-All email examples, domains, links, and website mockups in this project are simulated for educational purposes only. No real credentials, links, accounts, or personal data were used.
+This repository was created for educational and internship-portfolio purposes as part of the CodeAlpha Cyber Security Internship. All scenarios, brands, email addresses, links, and examples are fictional training content.
+
